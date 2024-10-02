@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.header{
+  background-color: aqua;
+  display: flex;
+  justify-content: center;
+}
+
+.header-button{ 
+  display: flex;
+  font-size: large;
+  gap: 15px;
+  padding: 20px;
+ 
+}
+
+.Footer{
+  background-color: aqua;
+  margin-top: 630px;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
